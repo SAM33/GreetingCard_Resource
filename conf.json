@@ -1,0 +1,13 @@
+{
+	"popup_background_image" : "giftcard",
+ 	"butterfly" : {
+		"local_resource":"true",
+		"local_resource_name":"butterfly",
+		"remote_json_url":"https://raw.githubusercontent.com/SAM33/GreetingCard_Resource/master/popup_background/butterfly.json"
+	},
+	"giftcard" : {
+		"local_resource":"true",
+		"local_resource_name":"giftcard",
+		"remote_json_url":"https://raw.githubusercontent.com/SAM33/GreetingCard_Resource/master/popup_background/giftcard.json"
+	}
+}
